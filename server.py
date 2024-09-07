@@ -1,0 +1,1 @@
+"""Server for Melon Tasting."""
